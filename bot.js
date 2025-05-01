@@ -512,7 +512,7 @@ bot.catch((err, ctx) => {
 
 // Webhook setup
 if (process.env.VERCEL_URL) {
-  const webhookUrl = `curl -X POST "https://api.telegram.org/bot1599848664:AAHc75il2BECWK39tiPv4pVf-gZdPt4MFcw/setWebhook?url=https://https://https://adhuvance-auto-forward-bot.vercel.app///webhook"`;
+  const webhookUrl = `curl -X POST "https://api.telegram.org/bot1599848664:AAHc75il2BECWK39tiPv4pVf-gZdPt4MFcw/setWebhook?url=https://adhuvance-auto-forward-bot-git-master-erennews-projects.vercel.app/webhook"`;
   
   bot.telegram.setWebhook(webhookUrl)
     .then(() => console.log(`Webhook successfully set to: ${webhookUrl}`))
